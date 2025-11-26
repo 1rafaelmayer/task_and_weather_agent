@@ -16,7 +16,7 @@ This isn't meant to be a production-ready app (more on that below). Instead, it'
 
 ### ⚠️ Important Disclaimer
 
-Let's be real: **this project is far from perfect**. While Antigravity did an impressive job getting everything up and running, AI-generated code has its limits. You'll probably find areas that could be more robust, edge cases that aren't handled, or features that could use a more human touch.
+Humans are still necessary. Specially, for thinking what we want, and how we want the solution to be. AI generated content is great, but humans give the actual value to the product.
 
 ## ✨ Features
 
