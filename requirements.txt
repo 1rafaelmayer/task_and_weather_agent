@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langgraph
+langchain-openai
+langchain-community
+todoist-api-python
+requests
+python-dotenv
+tzdata
